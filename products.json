@@ -1,0 +1,71 @@
+[{
+    "name": "Celkon",
+    "price": 111.17,
+    "featured": false,
+    "rating": 5,
+ 
+    "company": "MI"
+}, {
+    "name": "Panasonic",
+    "price": 636.61,
+    "featured": true,
+    "rating": 4,
+
+    "company": "MI"
+}, {
+    "name": "Lava",
+    "price": 296.39,
+    "featured": false,
+    "rating": 1,
+ 
+    "company": "Apple"
+}, {
+    "name": "Huawei",
+    "price": 968.48,
+    "featured": false,
+    "rating": 5,
+
+    "company": "Samsang"
+}, {
+    "name": "vivo",
+    "price": 833.43,
+    "featured": false,
+    "rating": 2,
+
+    "company": "Dell"
+}, {
+    "name": "Celkon",
+    "price": 901.4,
+    "featured": false,
+    "rating": 1,
+
+    "company": "Dell"
+}, {
+    "name": "Celkon",
+    "price": 523.46,
+    "featured": false,
+    "rating": 3,
+
+    "company": "Samsang"
+}, {
+    "name": "Nokia",
+    "price": 194.05,
+    "featured": true,
+    "rating": 3,
+
+    "company": "Samsang"
+}, {
+    "name": "Lenovo",
+    "price": 697.8,
+    "featured": true,
+    "rating": 3,
+
+    "company": "Apple"
+}, {
+    "name": "Siemens",
+    "price": 128.23,
+    "featured": false,
+    "rating": 4,
+
+    "company": "MI"
+}]
