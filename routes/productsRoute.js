@@ -3,7 +3,7 @@ const { getAllProducts,getAllProductsTesting, getWelcome } = require('../control
 const router = express.Router();
 
 
-router.route("/").get(getWelcome)
+router.route("/").get(getAllProducts)
 router.route("/products").get(getAllProducts);
 
 router.route("/testing").get(getAllProductsTesting);
